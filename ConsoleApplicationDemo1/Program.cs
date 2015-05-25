@@ -17,7 +17,8 @@ namespace ConsoleApplicationDemo1
         public static void PrintOutLoud()
         {
             Console.WriteLine("Hello welcome to the world of git demos!!! program 2");
-            Console.WriteLine();
+            Console.ReadKey();
+            Console.WriteLine("Forcing a merge by overwriting on the same line with new code !!");
             Console.WriteLine("hehehahahahahahahahahahahahaha...(devil laugh)");
             Console.ReadLine();
         }

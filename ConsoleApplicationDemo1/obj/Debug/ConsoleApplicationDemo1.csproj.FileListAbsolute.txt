@@ -4,3 +4,6 @@ c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\Co
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.csprojResolveAssemblyReference.cache
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.exe
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.pdb
+C:\Study\Projects\GitStudy-Shridhar\ConsoleApplicationDemo1\bin\Debug\ConsoleApplicationDemo1.exe.config
+C:\Study\Projects\GitStudy-Shridhar\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.exe
+C:\Study\Projects\GitStudy-Shridhar\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.pdb
