@@ -1,6 +1,5 @@
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\bin\Debug\ConsoleApplicationDemo1.exe.config
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\bin\Debug\ConsoleApplicationDemo1.exe
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\bin\Debug\ConsoleApplicationDemo1.pdb
-c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.csprojResolveAssemblyReference.cache
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.exe
 c:\users\spasodi\documents\visual studio 2013\Projects\ConsoleApplicationDemo\ConsoleApplicationDemo1\obj\Debug\ConsoleApplicationDemo1.pdb
